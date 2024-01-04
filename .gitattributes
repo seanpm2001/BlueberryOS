@@ -32,6 +32,14 @@
 *.css linguist-detectable=true
 *.css linguist-documentation=false
 *.css linguist-language=CSS
+# C source file
+*.c linguist-detectable=true
+*.c linguist-documentation=false
+*.c linguist-language=C
+# C header source file
+*.h linguist-detectable=true
+*.h linguist-documentation=false
+*.h linguist-language=C
 # C++ file
 *.cpp linguist-detectable=true
 *.cpp linguist-documentation=false
@@ -190,7 +198,7 @@
 # File info
 
 # File type: gitattributes file (*.gitattributes)
-# File version: 5 (2024, Wednesday, January 3rd at 07:29 pm PST)
-# Line count (including blank lines and compiler line): 197
+# File version: 6 (2024, Wednesday, January 3rd at 08:37 pm PST)
+# Line count (including blank lines and compiler line): 205
 
 # End of script
